@@ -14,7 +14,4 @@ En este repositorio, he aplicado y desarrollado habilidades fundamentales de pro
 
 ## Estructura del Repositorio
 
-El repositorio está organizado en 3 carpetas (/ACTIVIDAD1, /ACTIVIDAD2, /ACTIVIDAD3) las siguientes carpetas:
-/EJERCICIOS/src/ACTIVIDAD 1
-/EJERCICIOS/src/ACTIVIDAD 2
-/EJERCICIOS/src/ACTIVIDAD 3
+El repositorio está organizado en 3 carpetas dentro de la carpeta src (/ACTIVIDAD1, /ACTIVIDAD2, /ACTIVIDAD3).
